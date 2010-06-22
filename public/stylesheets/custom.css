@@ -11,7 +11,7 @@ padding-top: 20px;
 
 #header img {
 padding: 1em;
-background: #fff;
+background: black;
 }
 
 #content {
@@ -80,6 +80,12 @@ padding: 20px;
   -moz-border-radius: 10px;
   -webkit-border-radius: 10px;
 }
+.img {
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+    
+}
+  
 
 /* Footer */
 #footer {
